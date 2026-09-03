@@ -1,2 +1,3 @@
 export { default as Home } from "./Home";
-import ConsultaCard from "./src/components/ConsultaCard";
+export { default as Admin } from "./Admin";
+
